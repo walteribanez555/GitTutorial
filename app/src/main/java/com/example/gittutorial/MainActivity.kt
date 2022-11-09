@@ -9,5 +9,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
+        print("Esto es una fiesta")
     }
 }
